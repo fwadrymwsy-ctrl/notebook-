@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.KonnachEtaleb" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/indigo_primary</item>
+        <item name="android:navigationBarColor">@color/indigo_dark</item>
+    </style>
+</resources>

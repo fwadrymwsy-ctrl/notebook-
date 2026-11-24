@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="board_photos" path="board_photos/" />
+    <files-path name="audio_notes" path="audio_notes/" />
+    <files-path name="exported_pdfs" path="exported_pdfs/" />
+    <files-path name="backups" path="backups/" />
+    <cache-path name="shared_cache" path="." />
+</paths>

@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class dz.arabic.konnachetaleb.backup.** { *; }
+-keep class dz.arabic.konnachetaleb.data.** { *; }
